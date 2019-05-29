@@ -5,10 +5,20 @@
     <link>https://woduyoueryuan.github.io/categories/</link>
     <description>Recent content in Categories on My Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cmn-Hans</language>
+    <lastBuildDate>Wed, 29 May 2019 10:05:28 +0800</lastBuildDate>
     
 	<atom:link href="https://woduyoueryuan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>category1</title>
+      <link>https://woduyoueryuan.github.io/categories/category1/</link>
+      <pubDate>Wed, 29 May 2019 10:05:28 +0800</pubDate>
+      
+      <guid>https://woduyoueryuan.github.io/categories/category1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
